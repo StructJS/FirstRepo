@@ -1,0 +1,24 @@
+{
+  "name": "firstrepo",
+  "version": "0.0.1",
+  "description": "First Github Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StructJS/FirstRepo.git"
+  },
+  "keywords": [
+    "first",
+    "github",
+    "repo"
+  ],
+  "author": "dnvyrn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StructJS/FirstRepo/issues"
+  },
+  "homepage": "https://github.com/StructJS/FirstRepo#readme"
+}
